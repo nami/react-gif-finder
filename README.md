@@ -1,6 +1,8 @@
 # react-gifs
 
-A simple gif finder and selector built with React and the Giphy API
+A simple gif finder and selector built with React and the Giphy API. 
+
+Note: Giphy API can be rather slow
 
 ## Scripts
 
